@@ -1,0 +1,19 @@
+{
+    "name": "ScriptableStatSystem.Sample",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:461ca02bd6d81f542b82d63a5d6a065a",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:5808a692bba78974081a0358f76ae632"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

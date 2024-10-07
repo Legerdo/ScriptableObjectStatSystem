@@ -1,0 +1,21 @@
+{
+  "name": "com.legeodo.scriptableobjectstatsystem",
+  "version": "1.0.0",
+  "displayName": "Scriptable Object Stat System",
+  "dependencies": {},
+  "author": {
+    "name": "Legeodo"
+  },  
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Legerdo/ScriptableObjectStatSystem.git",
+    "revision": "main"
+  },
+  "samples":
+  [
+      {
+          "displayName": "Demo",
+          "path": "Samples~/"
+      }
+  ]  
+}
